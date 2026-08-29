@@ -50,6 +50,8 @@ Computação Gráfica é utilizada, por exemplo, em jogos digitais, animações,
 
 Um exemplo bastante conhecido de projeto público relacionado à síntese de imagens é o **[Ray Tracing in One Weekend](https://github.com/RayTracing/raytracing.github.io)**, que apresenta a construção de um renderizador baseado em ray tracing. Seu repositório disponibiliza gratuitamente os códigos-fonte dos renderizadores utilizados nos livros.
 
+Outro exemplo de biblioteca pública relacionada à síntese e manipulação de imagens é a **[Pillow](https://github.com/python-pillow/Pillow/)**, uma biblioteca open-source para Python que permite criar e editar imagens por meio de operações como desenho de formas geométricas, aplicação de cores, textos, filtros e transformações. A biblioteca é uma evolução da Python Imaging Library (PIL) e possui código-fonte e documentação disponíveis publicamente, sendo adequada para demonstrar conceitos básicos de geração e rasterização de imagens em duas dimensões.
+
 ### Aplicação escolhida
 
 **Geração de uma cena sintética utilizando primitivas gráficas.**
