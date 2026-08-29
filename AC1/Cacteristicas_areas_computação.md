@@ -48,7 +48,7 @@ Entre os principais elementos dessa área estão:
 
 Computação Gráfica é utilizada, por exemplo, em jogos digitais, animações, filmes, simuladores, arquitetura, CAD e realidade virtual.
 
-Um exemplo bastante conhecido de projeto público relacionado à síntese de imagens é o **Ray Tracing in One Weekend**, que apresenta a construção de um renderizador baseado em ray tracing. Seu repositório disponibiliza gratuitamente os códigos-fonte dos renderizadores utilizados nos livros.
+Um exemplo bastante conhecido de projeto público relacionado à síntese de imagens é o **[Ray Tracing in One Weekend](https://github.com/RayTracing/raytracing.github.io)**, que apresenta a construção de um renderizador baseado em ray tracing. Seu repositório disponibiliza gratuitamente os códigos-fonte dos renderizadores utilizados nos livros.
 
 ### Aplicação escolhida
 
