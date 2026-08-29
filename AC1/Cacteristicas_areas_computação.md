@@ -163,7 +163,7 @@ Portanto, o fluxo dessa área é:
 
 ### Resultado executado
 
-[Ver resultado da Síntese de Imagens](sandbox:/mnt/data/computacao_visual/01_sintese_computacao_grafica.png)
+[Ver resultado da Síntese de Imagens](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC1/01_sintese_computacao_grafica.png)
 
 ---
 
