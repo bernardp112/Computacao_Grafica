@@ -295,7 +295,7 @@ Portanto:
 
 ### Resultado executado
 
-[Ver resultado do Processamento de Imagens](sandbox:/mnt/data/computacao_visual/02_processamento_imagens.png)
+[Ver resultado do Processamento de Imagens](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC1/02_processamento_imagens.png)
 
 ---
 
@@ -408,7 +408,7 @@ Portanto:
 
 ### Resultado executado
 
-[Ver resultado da Visão Computacional](sandbox:/mnt/data/computacao_visual/03_visao_computacional_face.png)
+[Ver resultado da Visão Computacional](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC1/03_visao_computacional_face.png)
 
 ---
 
@@ -530,7 +530,7 @@ Na Visualização Computacional, a imagem é principalmente um **instrumento par
 
 ### Resultado executado
 
-[Ver resultado da Visualização Computacional](sandbox:/mnt/data/computacao_visual/04_visualizacao_computacional.png)
+[Ver resultado da Visualização Computacional](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC1/04_visualizacao_computacional.png)
 
 ---
 
