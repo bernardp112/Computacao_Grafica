@@ -187,7 +187,7 @@ Entre suas aplicações estão:
 * transformações geométricas;
 * compressão.
 
-Para esta demonstração foi utilizado o **OpenCV**, um projeto open-source voltado para processamento de imagens e visão computacional. Seu repositório possui módulos relacionados explicitamente a processamento de imagens e computer vision.
+Para esta demonstração foi utilizado o **[OpenCV](https://github.com/opencv/opencv)**, um projeto open-source voltado para processamento de imagens e visão computacional. Seu repositório possui módulos relacionados explicitamente a processamento de imagens e computer vision.
 
 ### Aplicação escolhida
 
@@ -331,7 +331,7 @@ Entre as principais aplicações estão:
 
 **Detecção automática de faces utilizando Haar Cascade do OpenCV.**
 
-O próprio projeto OpenCV possui classificadores Haar e exemplos de detecção facial utilizando arquivos de cascade fornecidos com o projeto.
+O próprio projeto [OpenCV](https://github.com/opencv/opencv) possui classificadores Haar e exemplos de detecção facial utilizando arquivos de cascade fornecidos com o projeto.
 
 ### Código
 
@@ -434,7 +434,7 @@ Algumas aplicações são:
 * dashboards;
 * visualização de grandes conjuntos de dados.
 
-Para este exemplo foi utilizado **Matplotlib**, biblioteca open-source criada especificamente para geração de visualizações estáticas, animadas e interativas em Python.
+Para este exemplo foi utilizado **[Matplotlib](https://github.com/matplotlib/matplotlib)**, biblioteca open-source criada especificamente para geração de visualizações estáticas, animadas e interativas em Python.
 
 O projeto também disponibiliza uma extensa galeria pública contendo exemplos e códigos de diferentes formas de visualização.
 
