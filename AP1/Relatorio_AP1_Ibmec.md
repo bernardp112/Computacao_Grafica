@@ -68,4 +68,4 @@ Câmera principal posicionada em enquadramento frontal/levemente angulado, prior
 - Também serão adicionados na AP2: iluminação (three-point ou HDRI), materiais/texturas (metal escovado na garra e luminária, material translúcido/emissivo no orbe), render engine (Eevee ou Cycles) e exportação do vídeo final.
 
 ---
-*Storyboard referente a este relatório: ver arquivo `Storyboard_AP1_Ibmec.svg` / imagem anexa.*
+*Storyboard referente a este relatório: ver arquivo `[Storyboard_AP1_Ibmec.svg](https://github.com/bernardp112/Computacao_Grafica/blob/main/AP1/Storyboard_AP1_Ibmec.svg)` / imagem anexa.* 
