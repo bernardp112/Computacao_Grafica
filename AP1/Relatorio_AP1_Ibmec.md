@@ -67,5 +67,5 @@ Câmera principal posicionada em enquadramento frontal/levemente angulado, prior
 - **Frames 240–360:** apresentação final da marca completa, câmera estabiliza, iluminação de destaque (a definir na AP2).
 - Também serão adicionados na AP2: iluminação (three-point ou HDRI), materiais/texturas (metal escovado na garra e luminária, material translúcido/emissivo no orbe), render engine (Eevee ou Cycles) e exportação do vídeo final.
 
----
-*Storyboard referente a este relatório: ver arquivo `[Storyboard_AP1_Ibmec.svg](https://github.com/bernardp112/Computacao_Grafica/blob/main/AP1/Storyboard_AP1_Ibmec.svg)` / imagem anexa.* 
+--- 
+*Storyboard referente a este relatório: ver arquivo **[Storyboard_AP1_Ibmec.svg](https://github.com/bernardp112/Computacao_Grafica/blob/main/AP1/Storyboard_AP1_Ibmec.svg)** / imagem anexa.* 
