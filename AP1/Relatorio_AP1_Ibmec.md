@@ -1,14 +1,15 @@
 # Relatório AP1 — Cena-Conceito "Ibmec"
-**Aluno(a):** [Seu Nome Completo]
-**Disciplina:** [Nome da disciplina]
+**Aluno(a):** Bernardo de Souza Silva
+**Matrícula:** 202108004081
+**Curso / Turma:** Engenharia da Computação / Computação Gráfica
 **Software:** Blender 4.5 LTS
-**Arquivo:** AP1_NomeSobrenome.blend
+**Arquivo:** AP1_BernardoSouza.blend
 
 ---
 
 ## 1. Conceito e título da peça
 
-**Título:** *"Construção da Marca"* (ou outro nome de sua escolha)
+**Título:** *"Ibmec: Planejando o Futuro e Criando a Inovação"*
 
 **Conceito:** a palavra **Ibmec** é apresentada em três momentos de construção/transformação, cada um protagonizado por um objeto autoral diferente que interage com uma letra específica. A narrativa combina solidez (estrutura da palavra), futuridade (formas geométricas limpas e orbe estilizado) e inovação (elemento mecânico de precisão), reforçando os valores de construção, criatividade e empreendedorismo pedidos no briefing.
 
