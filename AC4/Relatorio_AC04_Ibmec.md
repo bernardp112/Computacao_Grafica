@@ -3,13 +3,13 @@
 **Aluno(a):** Bernardo de Souza Silva
 **Disciplina:** Computação Gráfica
 **Software:** Blender 4.5 LTS
-**Arquivo:** AC04_BernardoSouza.blend (cópia da cena da AP1, original preservado)
+**Arquivo:** **[AC04_BernardoSouza.blend](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC4/AC04_BernardoSouza.blend)** (cópia da cena da AP1, original preservado)
 
 ---
 
 ## 1. Continuidade da AP1
 
-A cena desenvolvida na AP1 (coleção `AP1_Ibmec_Conceito`) foi reaberta e salva como cópia (`AC04_BernardoSouza.blend`), sem alterar o arquivo original da AP1. A palavra "Ibmec" não sofreu nenhuma alteração de identidade visual, posição ou geometria — apenas os três objetos autorais e a iluminação foram modificados nesta etapa.
+A cena desenvolvida na AP1 (coleção `AP1_Ibmec_Conceito`) foi reaberta e salva como cópia (**[AC04_BernardoSouza.blend](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC4/AC04_BernardoSouza.blend)**), sem alterar o arquivo original da AP1. A palavra "Ibmec" não sofreu nenhuma alteração de identidade visual, posição ou geometria — apenas os três objetos autorais e a iluminação foram modificados nesta etapa.
 
 ## 2. Identificação dos três objetos e material aplicado
 
@@ -49,4 +49,4 @@ Cada material foi aplicado a um único objeto autoral, de modo que os três mode
 O Principled BSDF do Blender 4.5 é um shader baseado em princípios físicos (physically-based), e seus parâmetros (Roughness, Specular IOR Level etc.) **não implementam literalmente** as equações clássicas de Lambert, Phong ou Blinn-Phong. Nesta atividade, as configurações descritas acima são **aproximações visuais**, escolhidas para tornar perceptível a diferença entre um comportamento puramente difuso (Lambert) e comportamentos com componente especular mais ou menos concentrada (Phong e Blinn-Phong) — não uma implementação matemática exata desses modelos. Uma alternativa mais direta para demonstrar isoladamente a componente difusa de Lambert seria o nó **Diffuse BSDF**, que não possui componente especular.
 
 ---
-*Imagens relacionadas: render final da cena (`imagem_full.png`) e imagem comparativa dos três objetos/materiais (`Objetos lado a lado.png`) e (`Objetos lado a lado 2.png`).*
+*Imagens relacionadas: render final da cena (**[imagem_full.png](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC4/imagem_full.png)**) e imagem comparativa dos três objetos/materiais (**[Objetos lado a lado.png](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC4/Objetos%20lado%20a%20lado.png)**) e (**[Objetos lado a lado 2.png](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC4/Objetos%20lado%20a%20lado%202.png)**).*
