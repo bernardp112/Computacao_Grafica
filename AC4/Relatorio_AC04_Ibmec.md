@@ -1,8 +1,11 @@
 # Relatório AC04 — Modelos de Iluminação (Lambert, Phong, Blinn-Phong)
 
 **Aluno(a):** Bernardo de Souza Silva
+
 **Disciplina:** Computação Gráfica
+
 **Software:** Blender 4.5 LTS
+
 **Arquivo:** **[AC04_BernardoSouza.blend](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC4/AC04_BernardoSouza.blend)** (cópia da cena da AP1, original preservado)
 
 ---
