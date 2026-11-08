@@ -1,15 +1,18 @@
 # Relatório AC05 — Materiais PBR e Texturas
 
-**Aluno(a):** [Seu Nome Completo]
-**Disciplina:** [Nome da disciplina]
+**Aluno(a):** Bernardo de Souza Silva
+
+**Disciplina:** Computação Gráfica
+
 **Software:** Blender 4.5 LTS
-**Arquivo:** AC05_NomeSobrenome.blend (cópia da cena da AC04, originais da AP1 e AC04 preservados)
+
+**Arquivo:**  **[AC05_BernardoSouza.blend](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC5/AC05_BernardoSouza.blend)**  (cópia da cena da AC04, originais da AP1 e AC04 preservados)
 
 ---
 
 ## 1. Continuidade da AP1/AC04
 
-A cena foi reaberta a partir do arquivo da AC04 e salva como cópia (`AC05_NomeSobrenome.blend`), sem sobrescrever os arquivos da AP1 ou da AC04. A composição, o enquadramento da câmera principal e a iluminação (`Light_Principal` e `Light_Preenchimento`) foram mantidos como ponto de partida. A palavra "Ibmec" permanece legível e com sua cor de marca preservada; nenhuma textura, relevo ou efeito foi aplicado a ela — apenas um ajuste leve de propriedades PBR (Roughness) no material já existente.
+A cena foi reaberta a partir do arquivo da AC04 e salva como cópia (`AC05_BernardoSouza.blend`), sem sobrescrever os arquivos da AP1 ou da AC04. A composição, o enquadramento da câmera principal e a iluminação (`Light_Principal` e `Light_Preenchimento`) foram mantidos como ponto de partida. A palavra "Ibmec" permanece legível e com sua cor de marca preservada; nenhuma textura, relevo ou efeito foi aplicado a ela — apenas um ajuste leve de propriedades PBR (Roughness) no material já existente.
 
 ## 2. Identificação dos três objetos e descrição dos materiais aplicados
 
@@ -56,4 +59,4 @@ Sob a iluminação herdada da AC04 (`Light_Principal`, Area, em ângulo, + `Ligh
 - Não foi necessário alterar a posição ou intensidade das luzes da AC04 para que os três materiais ficassem legíveis; apenas a troca do modo de visualização do viewport para *Rendered* foi usada para conferência.
 
 ---
-*Imagens relacionadas: render final pela câmera principal (`AC05_render_final.png`), captura do Shader Editor do material `MAT_Metal_Escovado` (`AC05_shader_editor.png`) e captura do UV Editor de `Obj_Garra` ou `Obj_Luminaria` (`AC05_uv_editor.png`).*
+*Imagens relacionadas: render final pela câmera principal (**[main_camera.png](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC5/main_camera.png)**), captura do Shader Editor do material (**[shading_garra.png](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC5/shading_garra.png)**) e captura do UV Editor (**[uv_garra.png](https://github.com/bernardp112/Computacao_Grafica/blob/main/AC5/uv_garra.png)**).*
