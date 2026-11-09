@@ -1,10 +1,16 @@
 # Relatório AP2 — Peça Final "Ibmec" (15s)
 
-**Aluno(a):** [Seu Nome Completo]
-**Disciplina:** [Nome da disciplina]
+**Aluno(a):** Bernardo de Souza Silva
+
+**Matrícula:** 202108004081
+
+**Disciplina:** Computação Gráfica
+
 **Software:** Blender 4.5 LTS
-**Arquivo:** AP2_NomeSobrenome.blend
-**Vídeo final:** AP2_NomeSobrenome.mp4 (15s, 24fps, H.264)
+
+**Arquivo:** AP2_BernardoSouza.blend
+
+**Vídeo final:** AP2_BernardoSouza.mp4 (15s, 24fps, H.264)
 
 ---
 
@@ -71,4 +77,4 @@
 - Nenhum áudio foi utilizado nesta entrega.
 
 ---
-*Arquivos relacionados: `AP2_NomeSobrenome.blend`, `AP2_NomeSobrenome.mp4`, imagem do quadro final renderizado, `Storyboard_AP2_Ibmec_FINAL.svg`.*
+*Arquivos relacionados: `AP2_BernardoSouza.blend`, `AP2_BernardoSouza.mp4`, imagem do quadro final renderizado, `Storyboard_AP2_Ibmec_FINAL.svg`.*
